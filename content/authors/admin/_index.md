@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 溧阳市科力企业咨询管理有限公司
 
 # Username (this should match the folder name)
 authors:
