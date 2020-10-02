@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 # organizations:
@@ -61,13 +61,11 @@ role: Professor of Artificial Intelligence
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
 
 本公司成立于2018年，依托南京博涵环保科技有限公司，江苏国恒安全评价咨询服务有限公司等实力雄厚的咨询，开展安全评价、环境影响评价、社会稳定风险评估、通航安全评估等技术咨询服务，为客户提供科学、公正、准确、满意的服务，积极参与社会公共科技服务平台的建设，努力成为政府部门可信赖的决策依托，成为企业的参谋与伙伴。 我们将竭诚为您提供优质服务！
