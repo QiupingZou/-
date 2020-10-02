@@ -9,17 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "关于科力"
-  url = "#posts"
-  weight = 20
-
-[[main]]
   name = "业绩展示"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "工作流程"
+  name = "业务范围"
   url = "#featured"
   weight = 40
 
